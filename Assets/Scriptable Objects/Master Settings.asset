@@ -17,7 +17,7 @@ MonoBehaviour:
   network:
     isServer: 1
   InitServer: 1
-  ClientDebugAutoConnect: 1
+  ClientDebugAutoConnect: 0
   ServerAddress: localhost
   ServerPort: 22444
   playerShips: {fileID: 11400000, guid: a6b5c7b7baef1a64b9618c9fa1668202, type: 2}
